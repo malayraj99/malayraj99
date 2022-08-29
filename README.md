@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @malayraj99
-- 👀 I’m interested in making beautiful android apps via Flutter
+- 👀 I'm an aspiring software developer
+
 - 🌱 I’m currently learning App Development
 - 📫 Contact me at : malayraj99@gmail.com
 
